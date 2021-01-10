@@ -18,7 +18,7 @@
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
-    "url": "{{ .Site.BaseURL }}",
+    "url": "{{ .Permalink }}",
     "name": "{{ .Site.Title }}",
     "author": {
         "@type": "Person",
@@ -49,7 +49,7 @@
     "copyrightYear" : "{{ .Date.Format "2006" }}",
     "datePublished": "{{ .Date }}",
     "dateModified" : "{{ .Date }}",
-    "url" : "{{ .Site.BaseURL }}",
+    "url" : "{{ .Permalink }}",
     "wordCount" : "{{ .WordCount }}",
     "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }} {{with .Site.Title}}"{{ .}}"{{ end }}]
 }
