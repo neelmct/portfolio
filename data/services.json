@@ -1,0 +1,21 @@
+{
+	"title" : "Mes compétences",
+	"services" : [
+		{
+			"icon" : "laptop",
+			"title" : "Web",
+			"description" : "Création de site web static et dynamique (voir projet site BDE)"
+		},
+		{
+            "icon" : "docker",
+            "brand" : "true",
+			"title" : "Docker",
+			"description" : "Mise en place et administration de platforme Docker et Docker Swarm. SaaS, creation d'image et de stacks"
+        },
+        {
+            "icon" : "network-wired",
+			"title" : "Réseau",
+			"description" : "Ingénierie et déploiment de LAN et MAN"
+		}
+	]
+}

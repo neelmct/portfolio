@@ -1,0 +1,29 @@
+{
+	"title" : "Mon parcour profesionnel",
+	"experience" : [
+		{
+			"timeperiod" : "Septembre 2019 - Aujourd'hui",
+            "company" : "Apprenti Ingénieur",
+            "job" : "Ministère des Armées",
+			"description" : "Conduite de projets au projet au profit de la marine nationale, Architecure de réseauw LAN et MAN"
+        },
+        {
+			"timeperiod" : "Mars 2020 - Aujourd'hui",
+            "company" : "Pôle numérique",
+            "job" : "Bureau des élèves - Télécom SudParis",
+			"description" : "Gestion et administrations des outils numériques du BDE"
+		},
+		{
+			"timeperiod" : "Sep. 2018 - Aout 2019",
+            "company" : "Technicien grand public et entreprise",
+            "job" : "Orange",
+			"description" : "Diagnostique et intervention sur les réseaux de déssertes cuivre et optiques"
+        },
+        {
+			"timeperiod" : "Juillet 2017 - Aout 2017",
+            "company" : "Ripper",
+            "job" : "Véolia",
+			"description" : "Colletes des déchets ménagers et industrielles"
+		}
+	]
+}

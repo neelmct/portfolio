@@ -1,0 +1,20 @@
+{
+	"title" : "Mes expériences associatives",
+	"experience" : [
+		{
+			"timeperiod" : "Mars 2020 - Aujourd'hui",
+            "company" : "BDE",
+			"description" : "Membre du Bureau Des Elèves de Télécom SudParis"
+        },
+        {
+			"timeperiod" : "Mai 2020 - Aujourd'hui",
+            "company" : "BPM",
+			"description" : "Association de sonorisation de Télécom SudParis"
+		},
+		{
+			"timeperiod" : "Sep. 2016 - Aout 2017",
+            "company" : "CVE",
+			"description" : "Délégué au conseil de Vie Etudiant du Lycée Pape Clément"
+        }
+	]
+}

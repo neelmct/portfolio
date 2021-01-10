@@ -1,0 +1,20 @@
+{
+	"title" : "Mon parcour scolaire",
+	"experience" : [
+		{
+			"timeperiod" : "Sep. 2019 - Aujourd'hui",
+            "school" : "Télécom SudParis",
+			"description" : "Formation d'ingénieur par apprentissage, spécialité réseau"
+		},
+		{
+			"timeperiod" : "Sep. 2017 - Aout 2019",
+            "school" : "UPPA - Université de Pau et des Pays de l'Adour",
+			"description" : "DUT Réseau et télécommunications par apprentissage"
+		},
+		{
+			"timeperiod" : "Sep. 2015 - Aout 2017",
+            "school" : "Lycée Pape Clément",
+			"description" : "Baccalauréat scientifique, spécialité physique, fillière européenne allemande"
+        }
+	]
+}

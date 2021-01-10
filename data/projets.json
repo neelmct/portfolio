@@ -1,0 +1,20 @@
+{
+	"title" : "Mes réalisations",
+	"projets" : [
+		{
+			"picture" : "semaine_innovation.png",
+			"title" : "Hackaton",
+			"description" : "Hackaton en partenariat avec le Crédit Agricole. Réalisation d'une maquette pour une application mobile"
+		},
+		{
+			"picture" : "kraken.png",
+			"title" : "Site WEB du BDE",
+			"description" : "Développement du site web du bureau des élèves de Télécom SudParis dans le but de présenter les membres du BDE ainsi que les activités proposées et surtout représenter les partenaires"
+		},
+		{
+			"icon" : "code",
+			"title" : "Projet informatique CO2PE",
+			"description" : "Projet de groupe ayant pour objectif la création d'un protocole de communication sécurisé et instantané basé sur un réseau peers to peers ainsi que le développement des clients et serveurs applicatifs implémentant ce protocole"
+		}
+	]
+}

@@ -1,0 +1,4 @@
+baseURL = "https://portfolio.clfp.fr/"
+languageCode = "en-us"
+title = "Clément Portfolio"
+theme = "uilite"
