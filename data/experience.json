@@ -5,25 +5,31 @@
 			"timeperiod" : "Septembre 2019 - Aujourd'hui",
             "company" : "Apprenti Ingénieur",
             "job" : "Ministère des Armées",
-			"description" : "Conduite de projets au projet au profit de la marine nationale, Architecure de réseauw LAN et MAN"
+			"description" : "Conduite de projets au projet au profit de la marine nationale",
+			"taches" : [
+				"Management des équipes projets au niveau national",
+				"Plannification des actions dans le temps",
+				"Ingénieries des architectures réseaux et deploiement de plateforme d'expérimentation"
+			]
         },
-        {
-			"timeperiod" : "Mars 2020 - Aujourd'hui",
-            "company" : "Pôle numérique",
-            "job" : "Bureau des élèves - Télécom SudParis",
-			"description" : "Gestion et administrations des outils numériques du BDE"
-		},
 		{
 			"timeperiod" : "Sep. 2018 - Aout 2019",
             "company" : "Technicien grand public et entreprise",
             "job" : "Orange",
-			"description" : "Diagnostique et intervention sur les réseaux de déssertes cuivre et optiques"
+			"description" : "Diagnostique et intervention sur les réseaux de déssertes cuivre et optiques",
+			"taches" : [
+				"Maintenance et  déploiement des équipements et des installations professionnelles sur les réseaux WDM, xDSL, RNIS et SDH",
+				"Configuration et mise en production de routeur cisco pour des entreprises"
+			]
         },
         {
 			"timeperiod" : "Juillet 2017 - Aout 2017",
             "company" : "Ripper",
             "job" : "Véolia",
-			"description" : "Colletes des déchets ménagers et industrielles"
+			"description" : "Colletes des déchets ménagers et industrielles",
+			"taches" : [
+				"Travail extrèmement physique, sur des horraires décalées"
+			]
 		}
 	]
 }

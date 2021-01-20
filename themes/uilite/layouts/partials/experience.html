@@ -10,15 +10,14 @@
       <div class="timeline-content {{ if eq (mod $index 2) 0 }} right {{ end }}">
         <span class="date">{{ $element.timeperiod }}</span>
         <h6 class="h3 my-2">{{ $element.company }}</h6>
-        {{ $website := $element.website }}
-        {{ if $website }}
-        <a target="_blank" href="{{ $website }}">
-          <i class="fas fa-link"></i>
-          {{ $website }}
-        </a>
-        {{ end }}
         <p class="job">{{ $element.job }}</p>
         <p class="">{{ $element.description }}</p>
+        {{ $taches := $element.taches }}
+        <ul class="custom_lu">
+        {{ range $taches }}
+          <li class="">{{ . }}</li>
+        {{ end }}
+      </ul>
       </div>
     </div>
     {{ end }}

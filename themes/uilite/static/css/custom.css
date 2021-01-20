@@ -6,3 +6,24 @@
 .ctm_height {
     height: 30px;
 }
+
+.custom_lu {
+    text-align: left;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.custom_link {
+    color: black;
+}
+
+.custom_h_contact {
+    margin-top: 4px;
+}
+
+.no_padding {
+    padding: 0;
+}
+
+.no_padding_r {
+    padding-right: 0;
+}

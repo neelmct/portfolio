@@ -6,16 +6,46 @@
 			"title" : "Web",
 			"description" : "Création de site web static et dynamique (voir projet site BDE)"
 		},
+        {
+            "icon" : "network-wired",
+			"title" : "Architecture",
+			"description" : "Création d'architecture réseaux et mise déploiment de plateforme d'expérimentation"
+		},
+		{
+            "icon" : "server",
+			"title" : "Réseau",
+			"description" : "Configuration d'équipement actifs de réseaux (Cisco, HP, Alcatel)"
+		},
+		{
+            "icon" : "linux",
+			"title" : "Linux",
+			"description" : "Configuration et administration de serveurs et d'application hébérgées"
+		},
+		{
+            "icon" : "shield-alt",
+			"title" : "Sécurité",
+			"description" : "Configuration d'équipement de chiffrement et de firewall, mise en application des directives de sécuritées civile (ANSI) et militaire"
+		},
 		{
             "icon" : "docker",
             "brand" : "true",
 			"title" : "Docker",
 			"description" : "Mise en place et administration de platforme Docker et Docker Swarm. SaaS, creation d'image et de stacks"
         },
-        {
-            "icon" : "network-wired",
-			"title" : "Réseau",
-			"description" : "Ingénierie et déploiment de LAN et MAN"
-		}
+		{
+            "icon" : "users",
+			"title" : "Management",
+			"description" : "Gestion de plusieurs equipes projet à l'echelle national"
+        },
+		{
+            "icon" : "project-diagram",
+			"title" : "Gestion de projet",
+			"description" : "Gestion de projet, plannification des actions et coordinations des acteurs"
+		},
+		{
+            "icon" : "file-signature",
+			"title" : "Contractualisation",
+			"description" : "Rédaction de documents pour la contractualisation de prestation de service et la création de marché publique"
+        }
 	]
 }

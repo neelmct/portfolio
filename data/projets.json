@@ -4,16 +4,19 @@
 		{
 			"picture" : "semaine_innovation.png",
 			"title" : "Hackaton",
-			"description" : "Hackaton en partenariat avec le Crédit Agricole. Réalisation d'une maquette pour une application mobile"
+			"web_link" : "https://www.figma.com/proto/tS8S2vITDCP8YKyPp3YxwN/Untitled?node-id=6%3A46&scaling=scale-down",
+			"description" : "Hackaton en partenariat avec le Crédit Agricole. Réalisation d'une maquette d'une application mobile pour la souscription à une assurane auto (lien de la maquette dans le titre)"
 		},
 		{
 			"picture" : "kraken.png",
 			"title" : "Site WEB du BDE",
+			"web_link" : "http://kraken2020.fr/",
 			"description" : "Développement du site web du bureau des élèves de Télécom SudParis dans le but de présenter les membres du BDE ainsi que les activités proposées et surtout représenter les partenaires"
 		},
 		{
 			"icon" : "code",
 			"title" : "Projet informatique CO2PE",
+			"web_link" : "https://github.com/neelmct/TSProject",
 			"description" : "Projet de groupe ayant pour objectif la création d'un protocole de communication sécurisé et instantané basé sur un réseau peers to peers ainsi que le développement des clients et serveurs applicatifs implémentant ce protocole"
 		}
 	]

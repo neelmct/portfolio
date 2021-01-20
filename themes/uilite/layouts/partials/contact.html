@@ -2,29 +2,34 @@
 
 <section id="contact" class="bg-light d-flex align-items-center" style="height: 100vh;">
   <div class="container">
-      <h2 class="heading mb-3">Contact</h2>
+      <h2 class="heading mb-3">Me contacter</h2>
 
-      <div class="text-success my-3">
-        {{ $config.message }}
+      <p>N'hésiter pas à me contacter pour tout renseignement complémentaire</p>
+
+      <br>
+
+      <div class="row w-100">
+        <div class="col-md-2 no_padding_r">
+          <h6 class="custom_h_contact">Mails :</h6>
+        </div>
+        <div class="col-md-6 no_padding">
+          <ul>
+            <li>contact@clfp.fr</li>
+            <li>clement.lecoq@telecom-sudparis.eu</li>
+          </ul>
+        </div>
       </div>
 
-      <form action="https://formspree.io/{{ $config.email }}" method="post">
-        <div class="form-row">
-          <div class="col-12 col-xl-6 col-lg-6 col-md-6">
-            <label>Name</label>
-            <input type="text" class="form-control" name="name" placeholder="Name">
-          </div>
-          <div class="col-12 col-xl-6 col-lg-6 col-md-6">
-            <label>Email</label>
-            <input type="email" class="form-control" name="_replyto" placeholder="Email">
-          </div>
+      <div class="row w-100">
+        <div class="col-md-2 no_padding_r">
+          <h6 class="custom_h_contact">Téléphone :</h6>
         </div>
+        <div class="col-md-6 no_padding">
+          <ul>
+            <li>07 61 91 90 65</li>
+          </ul>
+        </div>
+      </div>
 
-        <div class="form-group">
-          <label>Message</label>
-          <textarea placeholder="Message" name="message" class="form-control" rows="4"></textarea>
-        </div>
-        <button type="submit" class="btn btn-dark">Submit</button>
-      </form>
   </div>
 </section>
